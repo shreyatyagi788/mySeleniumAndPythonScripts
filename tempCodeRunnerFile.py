@@ -1,0 +1,1 @@
+a.donate-button[style='top: 0']

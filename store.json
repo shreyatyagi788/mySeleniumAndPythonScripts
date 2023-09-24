@@ -1,0 +1,25 @@
+{
+  
+    "colourbook": [
+    {
+      "bookname":"xyz",
+      "price":100.00,
+      "author":"xyz"
+    },
+    {
+      "bookname":"abc",
+      "price":200.00,
+      "author":"abc"
+    },
+    {
+      "bookname":"pqr",
+      "price":500.00,
+      "author":"pqr"
+    },
+    {
+      "bookname":"rrr",
+      "price":200.00,
+      "author":"rrr"
+    }
+  ]
+}

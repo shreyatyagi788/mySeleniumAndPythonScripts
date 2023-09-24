@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "john",
+      "country": "usa",
+      "courses": [
+        "python",
+        "java"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "shreya",
+      "country": "india",
+      "courses": [
+        "python",
+        "java"
+      ]
+    }
+  ]
+}
