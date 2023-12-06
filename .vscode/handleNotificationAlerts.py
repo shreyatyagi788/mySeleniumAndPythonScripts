@@ -7,7 +7,7 @@ import time
 
 opt = webdriver.ChromeOptions()
 opt.add_argument("--disable-notifications")
-serv_obj = Service("C:\\Users\\Aaryan\\Downloads\\shreyapythonfiles\\chromedriver.exe")
+serv_obj = Service("C:\\Users\\Aaryan\\Downloads\\shreyapythonfiles\\chromedriver-win64\\chromedriver.exe")
 driver = webdriver.Chrome(service=serv_obj, options=opt)
 #driver = webdriver.Chrome(service=serv_obj)
 

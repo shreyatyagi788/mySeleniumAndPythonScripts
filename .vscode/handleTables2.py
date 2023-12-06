@@ -6,7 +6,7 @@ from selenium.webdriver import ActionChains
 import time
 
 
-serv_obj = Service("C:\\Users\\Aaryan\\Downloads\\shreyapythonfiles\\chromedriver.exe")
+serv_obj = Service("C:\\Users\\Aaryan\\Downloads\\shreyapythonfiles\\chromedriver-win64\\chromedriver.exe")
 driver = webdriver.Chrome(service=serv_obj)
 
 driver.implicitly_wait(20) #the implicit wait is applicable to all ther statements in the script

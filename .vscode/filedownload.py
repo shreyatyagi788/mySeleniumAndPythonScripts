@@ -7,7 +7,7 @@ location = os.getcwd()
 
 def chrome_setup():
     from selenium.webdriver.chrome.service import Service
-    serv_obj = Service("C:\\Users\\Aaryan\\Downloads\\shreyapythonfiles\\chromedriver.exe")
+    serv_obj = Service("C:\\Users\\Aaryan\\Downloads\\shreyapythonfiles\\chromedriver-win64\\chromedriver.exe")
     # opt = webdriver.ChromeOptions()
     # opt.add_argument("--disable-notifications")
     driver = webdriver.Chrome(service=serv_obj)
